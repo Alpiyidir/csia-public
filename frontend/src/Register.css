@@ -1,0 +1,19 @@
+.none {
+    display: none;
+}
+
+.display {
+    display: block;
+}
+
+.check {
+    display: block;
+}
+
+.times {
+    display: block;
+}
+
+.instructions {
+    display: block;
+}

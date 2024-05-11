@@ -1,0 +1,42 @@
+input[class="logreg"] {
+	width: 25%;
+	padding: 6px 10px;
+    margin: 5px;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+label[class="logreg"] {
+    width: 99%;
+	margin: 8px;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+label[class="checkbox"] {
+    width: 5.4%;
+	margin: 8px;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+
+.none {
+	display: none;
+}
+
+.display {
+	display: block;
+}
+
+.check {
+	display: block;
+}
+
+.times {
+	display: block;
+}
+
+.instructions {
+	display: block;
+}
